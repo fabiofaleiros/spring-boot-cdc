@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.commentsservice;
+package tech.ffs.commentsservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

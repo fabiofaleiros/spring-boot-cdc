@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.postsservice;
+package tech.ffs.postsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

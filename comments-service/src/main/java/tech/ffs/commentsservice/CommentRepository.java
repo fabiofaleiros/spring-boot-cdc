@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.postsservice;
+package tech.ffs.commentsservice;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

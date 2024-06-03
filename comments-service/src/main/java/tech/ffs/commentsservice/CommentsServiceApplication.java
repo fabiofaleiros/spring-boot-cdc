@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.commentsservice;
+package tech.ffs.commentsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

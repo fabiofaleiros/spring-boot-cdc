@@ -1,4 +1,4 @@
-package br.com.giulianabezerra.postsservice;
+package tech.ffs.postsservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
